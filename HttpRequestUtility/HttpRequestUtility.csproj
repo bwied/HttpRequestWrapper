@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Brian Wied</Authors>
+    <Description>An http request utility that encapsulates an HttpClient object</Description>
   </PropertyGroup>
 
   <ItemGroup>
